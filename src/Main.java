@@ -16,7 +16,7 @@ public class Main {
 
         //3. create components
         JLabel label = new JLabel("Hello Seaver");
-        JButton button = new JButton("Push Me");
+        JButton button = new JButton("Push you");
         JTextField textField = new JTextField(5);
 // adding an image
         ImageIcon icon = new ImageIcon("Images/MyCards/2C.png");
